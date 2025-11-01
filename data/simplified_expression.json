@@ -1,0 +1,7 @@
+{
+    "original_expression": "mul(mul(Lambda, rho), exp(9.015725556127048))",
+    "simplified_expression": "8231.516619736072*Lambda*rho",
+    "factored_expression": "8231.516619736072*Lambda*rho",
+    "derivative_wrt_rho": "8231.516619736072*Lambda",
+    "derivative_wrt_Lambda": "8231.516619736072*rho"
+}

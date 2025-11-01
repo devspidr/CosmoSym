@@ -39,7 +39,7 @@ cosmic variables like **Λ (cosmological constant)**, **ρ (matter density)**, a
 ---
 
 ## 🧩 Architecture Overview
-
+```
 COSMOSYM/
 │
 ├── data/
@@ -56,7 +56,7 @@ COSMOSYM/
 │ └── streamlit_dashboard.py # Streamlit web dashboard for visualization
 │
 └── README.md
-
+```
 
 
 ---
@@ -117,5 +117,6 @@ I wanted to create a system that doesn’t just compute — but thinks symbolica
 
 J Soundar Balaji
 AI & Physics Enthusiast | Developer 
+
 
 

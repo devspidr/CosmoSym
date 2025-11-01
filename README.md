@@ -43,17 +43,17 @@ cosmic variables like **Λ (cosmological constant)**, **ρ (matter density)**, a
 COSMOSYM/
 │
 ├── data/
-│   ├── simplified_expression.json      # Stores simplified symbolic equations
-│   ├── insight_log.json                # Logs all generated insights
-│   └── memory_log.json                 # Keeps track of past runs and facts
+│ ├── simplified_expression.json # Stores simplified symbolic equations
+│ ├── insight_log.json # Logs all generated insights
+│ └── memory_log.json # Keeps track of past runs and facts
 │
 ├── src/
-│   ├── symbolic_engine.py              # Symbolic regression pipeline to discover equations
-│   ├── symbolic_simplifier.py          # Simplifies and differentiates symbolic expressions
-│   ├── insight_agent.py                # Generates AI-driven scientific insights
-│   ├── interactive_loop.py             # Interactive mode for user queries and reasoning
-│   ├── dashboard.py                    # CLI dashboard to view latest insights
-│   └── streamlit_dashboard.py          # Streamlit web dashboard for visualization
+│ ├── symbolic_engine.py # Symbolic regression pipeline to discover equations
+│ ├── symbolic_simplifier.py # Simplifies and differentiates symbolic expressions
+│ ├── insight_agent.py # Generates AI-driven scientific insights
+│ ├── interactive_loop.py # Interactive mode for user queries and reasoning
+│ ├── dashboard.py # CLI dashboard to view latest insights
+│ └── streamlit_dashboard.py # Streamlit web dashboard for visualization
 │
 └── README.md
 
@@ -117,4 +117,5 @@ I wanted to create a system that doesn’t just compute — but thinks symbolica
 
 J Soundar Balaji
 AI & Physics Enthusiast | Developer 
+
 

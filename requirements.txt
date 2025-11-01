@@ -1,0 +1,16 @@
+sympy
+astropy
+numpy
+scipy
+matplotlib
+plotly
+pandas
+networkx
+faiss-cpu
+tiktoken
+sentence-transformers
+langchain
+llama-index
+torch
+transformers
+jupyterlab
